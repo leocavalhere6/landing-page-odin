@@ -145,6 +145,9 @@ main h2 {
     padding: 7em 13em;
 }
 
+.colorphrase {
+    color:#211f1f;
+}
 .quote p {
     align-self: flex-end;
     font-weight: bolder;
